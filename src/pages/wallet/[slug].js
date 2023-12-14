@@ -93,7 +93,7 @@ export default function Home() {
                   User Private Key
                 </Text>
                 <Text color={"gray.400"} fontSize={12} fontWeight={"medium"} align={"justify"}>Click the button below to
-                  reveal your wallet's private key. Data is delivered
+                  reveal your wallet&#39;s private key. Data is delivered
                   through encrypted
                   secure randomized channels. This page is single access and contains impermanent data. Upon access this
                   page and its encrypted data self-destructs and is completely erased. This page and its content no
